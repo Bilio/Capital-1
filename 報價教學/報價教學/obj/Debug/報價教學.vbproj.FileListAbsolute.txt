@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\bin\Debug\報價教學.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\bin\Debug\報價教學.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\bin\Debug\報價教學.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\bin\Debug\報價教學.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\obj\Debug\報價教學.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\obj\Debug\報價教學.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\obj\Debug\報價教學.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\obj\Debug\報價教學.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\報價教學\報價教學\obj\Debug\報價教學.pdb
+C:\Users\Rhine\Desktop\上課\報價教學\報價教學\bin\Debug\報價教學.exe.config
+C:\Users\Rhine\Desktop\上課\報價教學\報價教學\obj\Debug\報價教學.exe
+C:\Users\Rhine\Desktop\上課\報價教學\報價教學\obj\Debug\報價教學.xml
+C:\Users\Rhine\Desktop\上課\報價教學\報價教學\obj\Debug\報價教學.pdb
